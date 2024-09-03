@@ -1,12 +1,14 @@
-# Matheus Hoegen Baraldi - 22158952-2
-# Vitor Bussioli Jorge - 22113742-2
-# José Eduardo Centenaro da Rocha - 22110027-2
-# vitoria Gabriele Mendonca Mendes - 22137969-2
-# Wesley dos Santos David - 22171156-2
-# lucas roncon goncalves - 22014352-2
-# Joao Pedro S Lussani - 22014550-2
-# Anna Julia Duarte Prando - 22045748-2
-# Gabriel Maiolli - 22120200-2 
+# Matheus Hoegen Baraldi -              22158952-2
+# Vitor Bussioli Jorge -                22113742-2
+# José Eduardo Centenaro da Rocha -     22110027-2
+# vitoria Gabriele Mendonca Mendes-     22137969-2
+# Wesley dos Santos David -             22171156-2
+# lucas roncon goncalves -              22014352-2
+# Joao Pedro S Lussani -                22014550-2
+# Anna Julia Duarte Prando -            22045748-2
+# Gabriel Maiolli -                     22120200-2 
+# Leonardo Franchini                    22014274-2
+# João Gabriel Renzetti                 22108621-2
 
 from collections import deque
 import heapq
